@@ -2,7 +2,7 @@
 title:  "Learn with me!!"
 ---
 
-# page.title
+# {{ page.title }}
 
 <ul>
   {% for post in site.posts %}
