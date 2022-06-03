@@ -1,5 +1,5 @@
 ---
-title: Creating a wordpress blog
+title: Creating a github blog
 updated: 2022-06-02 14:36:33Z
 created: 2022-06-01 16:35:19Z
 latitude: 28.45949936
